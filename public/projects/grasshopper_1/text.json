@@ -1,0 +1,10 @@
+{
+  "ru": {
+    "title": "Примеры Grasshopper",
+    "description": "Примеры работ с автоматическим проставлением размеров, фасадных плит, шаговых дорожек, а также созданием видео в Rhino + Grasshopper."
+  },
+  "en": {
+    "title": "Grasshopper Examples",
+    "description": "Examples of works with automatic dimensioning, facade panels, walking paths, and video creation in Rhino + Grasshopper."
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "image",
+    "file": "aplug_1.PNG",
+    "captionRu": "Выборка выделенных элементов и запись в таблицу необходимых параметров GDL",
+    "captionEn": "aplug_1.PNG"
+  },
+  {
+    "type": "image",
+    "file": "aplug_2.PNG",
+    "captionRu": "Здесь параметры GDL (при помощи LABPP Automat)",
+    "captionEn": "aplug_2.PNG"
+  },
+  {
+    "type": "image",
+    "file": "aplug_3.PNG",
+    "captionRu": "Выгрузка в Excel. На раз-два-три.",
+    "captionEn": "aplug_3.PNG"
+  }
+]

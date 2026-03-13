@@ -1,0 +1,10 @@
+{
+    "ru": {
+        "title": "GDL в Excel",
+        "description": "Пример плагина Archicad: собирает параметры GDL из выделенного элемента и экспортирует в Excel."
+    },
+    "en": {
+        "title": "GDL to Excel",
+        "description": "An Archicad plugin example: extracts GDL parameters from the selected element and exports them to Excel."
+    }
+}

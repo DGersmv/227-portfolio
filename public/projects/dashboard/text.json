@@ -1,0 +1,10 @@
+{
+  "ru": {
+    "title": "Личный кабинет",
+    "description": "Автоматизация стройки, API-доступ, паспорт объекта."
+  },
+  "en": {
+    "title": "Client Dashboard",
+    "description": "Construction automation, API access, project dossier."
+  }
+}

@@ -1,0 +1,14 @@
+[api]
+enabled = true
+
+[functions.create-robokassa-payment]
+verify_jwt = false
+
+[functions.robokassa-result]
+verify_jwt = false
+
+[functions.resend-plugin]
+verify_jwt = false
+
+[functions.resend-webhook]
+verify_jwt = false

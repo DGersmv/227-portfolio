@@ -1,0 +1,10 @@
+{
+    "ru": {
+        "title": "Ландшафт: от плана до реализации",
+        "description": "Полный цикл проекта: от точного плана с посадками, дорожками и освещением — до рендеров и реализации на участке.\n\nВсе элементы (растения, покрытия, малые формы) соответствуют проекту. Для визуализации использовались модели из Enscape с последующей ручной корректировкой GDL, чтобы и чертёж, и визуализация говорили на одном языке.\n\nФинальный результат реализован на реальном участке, включая геопластику, озеленение, дорожки и водоём. Переход к Unreal Engine запланирован для дальнейшего развития подхода."
+    },
+    "en": {
+        "title": "Landscape: From Plan to Reality",
+        "description": "A full-cycle landscape project: from detailed plans with plantings, paths, and lighting — to visualization and real-world execution.\n\nAll elements (plants, hardscapes, small forms) are fully consistent with the technical drawings. Enscape models were used and GDL parameters were manually adjusted to ensure plan and render match.\n\nThe project was implemented on-site, including grading, greenery, paths, and a water feature. A transition to Unreal Engine is planned to further enhance this pipeline."
+    }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "type": "image",
+    "file": "andr_1.PNG",
+    "captionRu": "andr_1.PNG",
+    "captionEn": "andr_1.PNG"
+  },
+  {
+    "type": "image",
+    "file": "andr_2.PNG",
+    "captionRu": "andr_2.PNG",
+    "captionEn": "andr_2.PNG"
+  },
+  {
+    "type": "image",
+    "file": "andr_3.PNG",
+    "captionRu": "andr_3.PNG",
+    "captionEn": "andr_3.PNG"
+  }
+]

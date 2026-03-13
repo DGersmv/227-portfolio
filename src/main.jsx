@@ -5,7 +5,12 @@ import App from './App.jsx';
 import './style.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <HashRouter>
+  <HashRouter
+    future={{
+      v7_startTransition: true,
+      v7_relativeSplatPath: true,
+    }}
+  >
     <App />
   </HashRouter>
 );

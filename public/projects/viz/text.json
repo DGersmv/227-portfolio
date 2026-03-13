@@ -1,0 +1,10 @@
+{
+  "ru": {
+    "title": "Визуализация проектов",
+    "description": "В этой подборке — результат визуализации архитектурных и ландшафтных решений с применением Enscape и V-Ray.\n\nПроекты варьируются от быстрых эскизных видов до фотореалистичных сцен с вечерним освещением, интерьерами и водоёмами. Использованы как встроенные библиотеки, так и полностью кастомные модели и текстуры.\n\nКаждая сцена подготавливалась с учётом освещения, материалов и восприятия. Иногда были ограничения по выразительности, но даже в рамках Enscape удавалось добиться нужной атмосферы и читаемости решений."
+  },
+  "en": {
+    "title": "Project Visualization",
+    "description": "This gallery presents architectural and landscape visualizations using Enscape and V-Ray.\n\nProjects range from quick conceptual views to detailed photorealistic scenes with evening lighting, interiors, and water features. Both built-in and fully custom models and textures are used.\n\nEach scene was prepared with lighting, materials, and visual clarity in mind. While there were visual limitations, Enscape still allowed for convincing atmosphere and readability in most cases."
+  }
+}

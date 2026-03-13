@@ -1,0 +1,80 @@
+[
+  {
+    "type": "image",
+    "file": "land_1.PNG",
+    "captionRu": "land_1.PNG",
+    "captionEn": "land_1.PNG"
+  },
+  {
+    "type": "image",
+    "file": "land_10.jpg",
+    "captionRu": "land_10.jpg",
+    "captionEn": "land_10.jpg"
+  },
+  {
+    "type": "video",
+    "file": "land_11_4.mp4",
+    "captionRu": "land_11_4.mp4",
+    "captionEn": "land_11_4.mp4"
+  },
+  {
+    "type": "video",
+    "file": "land_12_4.mp4",
+    "captionRu": "land_12_4.mp4",
+    "captionEn": "land_12_4.mp4"
+  },
+  {
+    "type": "image",
+    "file": "land_2.PNG",
+    "captionRu": "land_2.PNG",
+    "captionEn": "land_2.PNG"
+  },
+  {
+    "type": "image",
+    "file": "land_20.PNG",
+    "captionRu": "land_20.PNG",
+    "captionEn": "land_20.PNG"
+  },
+  {
+    "type": "image",
+    "file": "land_22.png",
+    "captionRu": "land_22.png",
+    "captionEn": "land_22.png"
+  },
+  {
+    "type": "image",
+    "file": "land_23.png",
+    "captionRu": "land_23.png",
+    "captionEn": "land_23.png"
+  },
+  {
+    "type": "image",
+    "file": "land_3.PNG",
+    "captionRu": "land_3.PNG",
+    "captionEn": "land_3.PNG"
+  },
+  {
+    "type": "image",
+    "file": "land_5.jpg",
+    "captionRu": "land_5.jpg",
+    "captionEn": "land_5.jpg"
+  },
+  {
+    "type": "image",
+    "file": "land_6.jpg",
+    "captionRu": "land_6.jpg",
+    "captionEn": "land_6.jpg"
+  },
+  {
+    "type": "image",
+    "file": "land_7.PNG",
+    "captionRu": "land_7.PNG",
+    "captionEn": "land_7.PNG"
+  },
+  {
+    "type": "image",
+    "file": "land_8.PNG",
+    "captionRu": "land_8.PNG",
+    "captionEn": "land_8.PNG"
+  }
+]

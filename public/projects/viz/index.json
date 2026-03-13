@@ -1,0 +1,50 @@
+[
+  {
+    "type": "image",
+    "file": "viz_1.png",
+    "captionRu": "viz_1.png",
+    "captionEn": "viz_1.png"
+  },
+  {
+    "type": "image",
+    "file": "viz_2.png",
+    "captionRu": "viz_2.png",
+    "captionEn": "viz_2.png"
+  },
+  {
+    "type": "image",
+    "file": "viz_3.PNG",
+    "captionRu": "viz_3.PNG",
+    "captionEn": "viz_3.PNG"
+  },
+  {
+    "type": "image",
+    "file": "viz_4.PNG",
+    "captionRu": "viz_4.PNG",
+    "captionEn": "viz_4.PNG"
+  },
+  {
+    "type": "image",
+    "file": "viz_5.PNG",
+    "captionRu": "viz_5.PNG",
+    "captionEn": "viz_5.PNG"
+  },
+  {
+    "type": "image",
+    "file": "viz_6.PNG",
+    "captionRu": "viz_6.PNG",
+    "captionEn": "viz_6.PNG"
+  },
+  {
+    "type": "image",
+    "file": "viz_7.PNG",
+    "captionRu": "viz_7.PNG",
+    "captionEn": "viz_7.PNG"
+  },
+  {
+    "type": "video",
+    "file": "viz_8.mp4",
+    "captionRu": "viz_8.mp4",
+    "captionEn": "viz_8.mp4"
+  }
+]

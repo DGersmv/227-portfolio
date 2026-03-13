@@ -1,7 +1,11 @@
-// TechLogoLandscape.jsx
-
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+
+// Импорты картинок из src/assets/logo
+import archicadLogo from '../assets/logo/archicad.png';
+import grasshopperLogo from '../assets/logo/grasshopper.png';
+import excelLogo from '../assets/logo/excel.png';
+import enscapeLogo from '../assets/logo/enscape.webp';
 
 export default function TechLogoLandscape({ lang = 'ru' }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -36,7 +40,7 @@ export default function TechLogoLandscape({ lang = 'ru' }) {
             <h2 className="text-2xl font-semibold text-gray-300">{title[lang]}</h2>
 
             <motion.img
-              src="/assets/logo/archicad.png"
+              src={archicadLogo}
               alt="Archicad Logo"
               className="w-24 h-20 object-contain"
               initial={{ opacity: 0, scale: 0.1 }}
@@ -45,7 +49,7 @@ export default function TechLogoLandscape({ lang = 'ru' }) {
             />
 
             <motion.img
-              src="/assets/logo/grasshopper.png"
+              src={grasshopperLogo}
               alt="Grasshopper Logo"
               className="w-24 h-24 object-contain"
               initial={{ opacity: 0, scale: 0.1 }}
@@ -54,7 +58,7 @@ export default function TechLogoLandscape({ lang = 'ru' }) {
             />
 
             <motion.img
-              src="/assets/logo/excel.png"
+              src={excelLogo}
               alt="Excel Logo"
               className="w-24 h-24 object-contain"
               initial={{ opacity: 0, scale: 0.1 }}
@@ -63,15 +67,13 @@ export default function TechLogoLandscape({ lang = 'ru' }) {
             />
 
             <motion.img
-              src="/assets/logo/enscape.webp"
+              src={enscapeLogo}
               alt="Enscape Logo"
               className="w-20 h-24 object-contain"
               initial={{ opacity: 0, scale: 0.1 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.8, delay: 1.5 }}
             />
-
-            
           </motion.div>
         )}
       </AnimatePresence>

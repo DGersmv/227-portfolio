@@ -1,0 +1,10 @@
+{
+  "ru": {
+    "title": "Приложение для стройки",
+    "description": "Сотрудник выбирает объект, фото, отправляет — всё остальное система делает сама."
+  },
+  "en": {
+    "title": "Field App for Workers",
+    "description": "Select the site, select photos, send — the system handles the rest."
+  }
+}

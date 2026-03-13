@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-  font-family: system-ui, sans-serif;
-  background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+  font-family: 'Fira Sans', system-ui, sans-serif;
+  background-color: transparent;
   min-height: 100vh;
 }
 
@@ -28,4 +28,9 @@ html, body, #root {
 
 #root {
   position: relative;
+}
+
+canvas {
+  background-color: transparent !important;
+  display: block !important;
 }

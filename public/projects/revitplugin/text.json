@@ -1,0 +1,10 @@
+{
+    "ru": {
+        "title": "OpenAI для Revit",
+        "description": "Пример плагина Revit с подключением к OpenAI через сервер на Railway. Запросы от пользователя передаются в формате, подходящем для дальнейшей обработки. Ответы AI приходят в структурированном виде, что позволяет выполнять любые действия в Revit — от автоматической расстановки видов до анализа параметров и генерации документации. Уже реализован надёжный обмен данными между Revit и OpenAI, что открывает широкие возможности для интеллектуальной автоматизации проектирования."
+    },
+    "en": {
+        "title": "OpenAI for Revit",
+        "description": "Example of a Revit plugin integrated with OpenAI via a Railway server. User commands are sent in a format suitable for structured parsing. The AI responds with well-formatted output, enabling any kind of automated operations in Revit — from view placement to parameter analysis and documentation generation. Reliable data exchange between Revit and OpenAI is already implemented, unlocking powerful opportunities for intelligent design automation."
+    }
+}

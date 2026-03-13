@@ -1,0 +1,9 @@
+# .gitignore
+node_modules
+.cache
+dist
+.vite
+*.log
+
+# Большие медиафайлы (хранить локально или на CDN)
+public/audio/

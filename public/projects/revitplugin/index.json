@@ -1,0 +1,20 @@
+[
+  {
+    "type": "image",
+    "file": "rvt_1.PNG",
+    "captionRu": "Обучение и настройка ассистента.",
+    "captionEn": "rvt_1.PNG"
+  },
+  {
+    "type": "image",
+    "file": "rvt_2.PNG",
+    "captionRu": "Настройка сервера для пересылки запросов-ответов. Санкции...",
+    "captionEn": "rvt_2.PNG"
+  },
+  {
+    "type": "image",
+    "file": "rvt_3.PNG",
+    "captionRu": "Сейчас пишется сам плагин.",
+    "captionEn": "rvt_3.PNG"
+  }
+]

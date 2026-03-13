@@ -1,0 +1,50 @@
+[
+  {
+    "type": "image",
+    "file": "other_1.jpg",
+    "captionRu": "other_1.jpg",
+    "captionEn": "other_1.jpg"
+  },
+  {
+    "type": "image",
+    "file": "other_10.PNG",
+    "captionRu": "other_10.PNG",
+    "captionEn": "other_10.PNG"
+  },
+  {
+    "type": "image",
+    "file": "other_11.PNG",
+    "captionRu": "other_11.PNG",
+    "captionEn": "other_11.PNG"
+  },
+  {
+    "type": "image",
+    "file": "other_2.jpg",
+    "captionRu": "other_2.jpg",
+    "captionEn": "other_2.jpg"
+  },
+  {
+    "type": "image",
+    "file": "other_3.jpg",
+    "captionRu": "other_3.jpg",
+    "captionEn": "other_3.jpg"
+  },
+  {
+    "type": "image",
+    "file": "other_4.jpg",
+    "captionRu": "other_4.jpg",
+    "captionEn": "other_4.jpg"
+  },
+  {
+    "type": "image",
+    "file": "other_5.jpg",
+    "captionRu": "other_5.jpg",
+    "captionEn": "other_5.jpg"
+  },
+  {
+    "type": "image",
+    "file": "other_6.jpg",
+    "captionRu": "other_6.jpg",
+    "captionEn": "other_6.jpg"
+  }
+]

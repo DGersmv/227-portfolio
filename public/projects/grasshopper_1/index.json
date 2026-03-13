@@ -1,0 +1,38 @@
+[
+  {
+    "type": "image",
+    "file": "gh_1.PNG",
+    "captionRu": "Это чертеж каркаса перекрытия.",
+    "captionEn": "This is a drawing of the ceiling frame."
+  },
+  {
+    "type": "image",
+    "file": "gh_2.PNG",
+    "captionRu": "Создание таких чертежей по заданным размерам перекрытия занимает пару минут",
+    "captionEn": "Creating such drawings for the specified ceiling dimensions takes just a few minutes."
+  },
+  {
+    "type": "video",
+    "file": "gh_v_1.mp4",
+    "captionRu": "Это я создал блок алгоритмов который можно использовать для проставки размеров.",
+    "captionEn": "I created a block of algorithms that can be used for dimension placement."
+  },
+  {
+    "type": "video",
+    "file": "gh_v_2.mp4",
+    "captionRu": "Набросок скриптов для установки фасадных панелей. По стене любого размера, любого любой формы, любой рисунок",
+    "captionEn": "A draft of scripts for setting facade panels. For walls of any size, shape, or design."
+  },
+  {
+    "type": "video",
+    "file": "gh_v_3.mp4",
+    "captionRu": "В помощь проектам по благоустройству",
+    "captionEn": "Assistance for landscaping projects."
+  },
+  {
+    "type": "video",
+    "file": "gh_v_4.mp4",
+    "captionRu": "Погонял возможности создания анимации в Grasshopper+Rhino",
+    "captionEn": "Tested animation creation capabilities in Grasshopper+Rhino."
+  }
+]
